@@ -1,0 +1,10 @@
+# Source: Dong et al., Nature 605, 470-476 (2022), Fig. 3b
+# Digitized by visual inspection of the published figure (PyMuPDF render @600dpi + manual axis calibration).
+# Not exact Source Data - treat as +/- 0.3-0.5 percentage-point digitization uncertainty.
+# Conditions: PHQ, pulse 0.02 s on / 1.08 s off (period 1.1 s), flow rate 4 sccm (75 mol% CH4, 25 mol% Ar)
+T_high_K,CH4_conversion_pct
+1200,1.2
+1400,2.3
+1600,5.8
+1800,8.1
+2000,11.5

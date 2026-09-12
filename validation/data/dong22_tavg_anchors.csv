@@ -1,0 +1,7 @@
+# Source: Dong et al., Nature 605, 470-476 (2022) - explicit T_avg values stated in figure
+# captions/text (not digitized from a plot axis, these are printed numbers).
+# Fig. 1b caption: "2,000 K  0.02 s on, 1.08 s off  PHQ  Tavg. ~ 815 K"
+# Fig. 4b/c: Thigh=1400 K, 0.11 s on / 0.99 s off -> Tavg. ~ 891-900 K (text says "around 900 K")
+T_high_K,pulse_on_s,pulse_off_s,T_avg_K
+2000,0.02,1.08,815
+1400,0.11,0.99,891

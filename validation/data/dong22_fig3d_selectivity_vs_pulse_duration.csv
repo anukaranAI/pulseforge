@@ -1,0 +1,9 @@
+# Source: Dong et al., Nature 605, 470-476 (2022), Fig. 3d
+# Digitized by visual inspection of the published figure (PyMuPDF render @600dpi + manual axis calibration).
+# Not exact Source Data - treat as +/- 1-2 percentage-point digitization uncertainty on selectivity,
+# +/- 0.5 percentage-point on conversion.
+# Conditions: PHQ, T_high = 1800 K fixed, off-time adjusted so period stays ~1.1 s, flow rate 4 sccm
+pulse_duration_s,C2_selectivity_pct,C6H6_selectivity_pct,C10H8_selectivity_pct,coke_selectivity_pct,CH4_conversion_pct
+0.02,88,9,2,0,8.2
+0.055,78,13,2,6,14.0
+0.11,77,12,1,9,21.0

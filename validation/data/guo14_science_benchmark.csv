@@ -1,0 +1,8 @@
+# Source: Guo, X. et al. "Direct, nonoxidative conversion of methane to ethylene, aromatics,
+# and hydrogen." Science 344, 616-619 (2014). Cited in Dong22 (ref. 7) as a key non-oxidative CH4
+# activation benchmark (single-Fe-site silica catalyst).
+# Values taken from the paper's abstract as reported via search (not independently digitized from
+# a figure) - treat as a single independent order-of-magnitude cross-check, not a curve-fit target.
+# Continuous heating (not pulsed), 1363 K, single-Fe-site/silica catalyst.
+condition,temperature_K,CH4_conversion_pct,C2H4_selectivity_pct,total_hydrocarbon_selectivity_pct
+guo14_fe_singlesite,1363,48.1,48.4,99

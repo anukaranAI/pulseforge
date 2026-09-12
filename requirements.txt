@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+pydantic
+pytest
+scikit-optimize
+streamlit
+google-genai

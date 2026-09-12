@@ -1,0 +1,12 @@
+# Source: Dong et al., Nature 605, 470-476 (2022), Fig. 3a
+# Digitized by visual inspection of the published figure (PyMuPDF render @600dpi + manual axis calibration).
+# All four conditions at furnace/PHQ temperature regime noted, flow rate 24 sccm.
+# condition: "no_cat_cont" = no catalyst, continuous furnace heating, 1273 K
+#            "fe_silica_cont" = Fe/silica catalyst, continuous furnace heating, 1273 K
+#            "carbon_cont" = carbon paper (no catalyst), continuous furnace heating, 1273 K
+#            "carbon_phq" = carbon paper, PHQ, T_high=2200 K, pulse 0.055 s on / 1.045 s off (T_avg < 900 K)
+condition,C2_selectivity_pct,C6H6_selectivity_pct,C10H8_selectivity_pct,coke_selectivity_pct,CH4_conversion_pct
+no_cat_cont,0,0,0,0,1.0
+fe_silica_cont,40,14,24,20,13.0
+carbon_cont,43,15,15,27,14.0
+carbon_phq,79,13,3,5,15.5
